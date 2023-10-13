@@ -1,5 +1,5 @@
 {
-  "name": "app-inventory-list-client",
+  "name": "attendee-inventory-list-client",
   "version": "1.0.0",
   "description": "This project was bootstrapped with Fastify-CLI.",
   "main": "app.js",
